@@ -30,5 +30,5 @@ async function decodeQRCode(imagePath) {
 }
 
 // Example usage
-const imagePath = "assets/qr4.png";
+const imagePath = "assets/votters_id.jpg";
 decodeQRCode(imagePath);
